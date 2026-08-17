@@ -1,133 +1,208 @@
-# 👋 Hey, I'm Abhinay Ugale
+<!-- ========================================================= -->
 
-### 💻 MSc Computer Science Student • BCS Graduate • Aspiring Software Developer
+<!--                  ANIMATED PROFILE HEADER                  -->
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Abhii06-U&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Abhii06-U?label=Followers&style=flat" />
-</p>
-
----
-
-## 🚀 About Me
-
-🎓 **MSc Computer Science Student**
-💻 **BCS Graduate — SPPU**
-🌱 Currently improving my skills in **Web Development & Software Development**
-🧠 Interested in **Programming, Databases, UI Development & Problem Solving**
-📍 Nashik, Maharashtra, India
-
-> **"Code. Learn. Build. Repeat. 🚀"**
-
----
-
-## 🧑‍💻 Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</p>
-
-### Web Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### Database & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 📚 E-Learning Platform
-
-> A web-based platform designed to provide online learning resources and courses.
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
-✨ Responsive UI
-✨ Course & learning content interface
-✨ User-friendly design
-
----
-
-### 🛒 Online Shopping System
-
-> Academic web application for browsing products and managing online shopping activities.
-
-**Tech:** `HTML` `CSS` `JavaScript` `MySQL`
-
-✨ Product browsing
-✨ User-friendly interface
-✨ Database integration
-✨ Shopping functionality
-
----
-
-## 🎓 Education
-
-| Degree                  | Institute                                         | Year           | Result        |
-| ----------------------- | ------------------------------------------------- | -------------- | ------------- |
-| 🎓 MSc Computer Science | K.S.K.W. Arts, Science & Commerce College, Nashik | 2026 – Present | Pursuing      |
-| 🎓 BCS                  | K.G.D.M. College, Niphad — SPPU                   | 2023 – 2026    | **CGPA 8.25** |
-| 📘 HSC                  | Maharashtra State Board                           | 2023           | **62%**       |
-| 📗 SSC                  | Maharashtra State Board                           | 2021           | **84%**       |
-
----
-
-## 🏆 Certification
-
-🏅 **Python Programming — Infosys Springboard**
-
----
-
-## 📊 GitHub Analytics
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhii06-U&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii06-U&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=ABHINAY%20UGALE&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhii06-U&theme=tokyonight&hide_border=true"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=MSc+Computer+Science+Student;BCS+Graduate;Aspiring+Software+Developer;Web+Developer;Java+%7C+Python+%7C+JavaScript;Building+Projects+%26+Learning+Every+Day"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhii06-U&label=PROFILE%20VIEWS&color=00d9ff&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Abhii06-U?label=FOLLOWERS&style=for-the-badge&color=203a43"/>
 </p>
 
 ---
 
-## 🧠 Currently Learning
+# 👨‍💻 About Me
 
 ```text
-🌐 Advanced Web Development
-🗄️ Database Management
-☕ Java Programming
-🐍 Python
-⚡ JavaScript
-🔧 Git & GitHub
+╔══════════════════════════════════════════════════════════╗
+║                    ABHINAY UGALE                         ║
+╠══════════════════════════════════════════════════════════╣
+║ 🎓 MSc Computer Science Student                         ║
+║ 💻 BCS Graduate — Savitribai Phule Pune University      ║
+║ 📍 Nashik, Maharashtra, India                           ║
+║ 🚀 Aspiring Software Developer                          ║
+║ 🌐 Interested in Web & Software Development             ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
+I am a **Computer Science graduate and MSc Computer Science student** passionate about building practical software and web applications.
+
+I enjoy transforming ideas into functional applications while continuously improving my programming, database, UI development, and problem-solving skills.
+
+### 🎯 Career Interests
+
+`Software Development` • `Web Development` • `Full-Stack Development` • `Database Development` • `IT`
+
 ---
 
-## 💡 Soft Skills
+# ⚡ Technology Universe
 
-`Communication` • `Teamwork` • `Problem Solving` • `Time Management` • `Adaptability` • `Quick Learning`
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,java,python,php,html,css,js,mysql,git,github,vscode&perline=6"/>
+
+</p>
 
 ---
 
-## 📫 Let's Connect
+# 🧠 Technical Skills
+
+| Category       | Technologies                          |
+| -------------- | ------------------------------------- |
+| 💻 Languages   | C, Java, Python, PHP                  |
+| 🌐 Frontend    | HTML5, CSS3, JavaScript               |
+| 🗄️ Database   | MySQL                                 |
+| 🧩 Concepts    | OOP, Data Structures, Problem Solving |
+| 🔧 Tools       | Git, GitHub, VS Code                  |
+| 📱 Development | Responsive Web Design, UI Development |
+
+---
+
+# 🚀 Featured Projects
+
+## 📚 E-Learning Platform
+
+**A web-based learning platform designed to provide online courses and learning resources.**
+
+### Highlights
+
+* 🎓 Course & learning content interface
+* 🎨 User-friendly UI
+* 📱 Responsive design
+* ⚡ Interactive frontend
+* 🧩 Practical web development implementation
+
+**Technology**
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+## 🛒 Online Shopping System
+
+**Academic web application concept for browsing products and managing online shopping activities.**
+
+### Highlights
+
+* 🛍️ Product browsing
+* 👤 User interaction
+* 🗄️ Database concepts
+* 🎨 Clean interface
+* ⚡ Web application functionality
+
+**Technology**
+
+`HTML` `CSS` `JavaScript` `MySQL`
+
+---
+
+# 📊 GitHub Performance
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abhii06-U&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii06-U&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Abhii06-U&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Animation
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Abhii06-U/Abhii06-U/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🎓 Education
+
+### MSc Computer Science
+
+**K.S.K.W. Arts, Science & Commerce College, CIDCO, Nashik**
+`2026 – Present`
+
+### Bachelor of Computer Science
+
+**K.G.D.M. College, Niphad — Savitribai Phule Pune University**
+`2023 – 2026` • **CGPA: 8.25**
+
+### Higher Secondary Certificate
+
+**Maharashtra State Board**
+`2023` • **62%`
+
+### Secondary School Certificate
+
+**Maharashtra State Board**
+`2021` • **84%`
+
+---
+
+# 🏆 Certification
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python%20Programming-Infosys%20Springboard-00D9FF?style=for-the-badge&logo=python&logoColor=white"/>
+
+</p>
+
+---
+
+# 🧩 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Advanced%20Web%20Development-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-203A43?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Database-2C5364?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-0F2027?style=for-the-badge&logo=github"/>
+
+</p>
+
+---
+
+# 💎 Professional Strengths
+
+<p align="center">
+
+`Problem Solving`
+`Communication`
+`Teamwork`
+`Adaptability`
+`Time Management`
+`Quick Learning`
+
+</p>
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -136,7 +211,7 @@
 </a>
 
 <a href="mailto:abhinayugale@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-abhinayugale%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -145,8 +220,14 @@
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 
-**Made with ❤️ and lots of ☕ by Abhinay Ugale**
+</p>
+
+<p align="center">
+
+### 🚀 Build • Learn • Improve • Repeat
+
+**© 2026 Abhinay Ugale**
 
 </p>

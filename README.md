@@ -213,6 +213,9 @@ I enjoy transforming ideas into functional applications while continuously impro
 <a href="mailto:abhinayugale06@gmail.com">
 <img src="https://img.shields.io/badge/Email-abhinayugale%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<a href="www.linkedin.com/in/abhinay-ugale-308224347">
+</a>
+
 
 </p>
 

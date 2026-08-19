@@ -1,181 +1,237 @@
-<div align="center">
+<!-- ========================================================= -->
 
-# 👋 Hello, I'm Abhinay Ugale
+<!--                  ANIMATED PROFILE HEADER                  -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate+%F0%9F%92%BB;Full+Stack+Web+Developer+%F0%9F%9A%80;JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications+%F0%9F%94%A5" />
+<!-- ========================================================= -->
 
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=ABHINAY%20UGALE&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Abhii06-U&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=MSc+Computer+Science+Student;BCS+Graduate;Aspiring+Software+Developer;Web+Developer;Java+%7C+Python+%7C+JavaScript;Building+Projects+%26+Learning+Every+Day"/>
+</p>
 
-</div>
-
----
-
-## 🚀 About Me
-
-👨‍💻 I'm **Abhinay Ugale**, a passionate **Computer Science graduate** and aspiring **Full Stack Developer**.
-
-🎓 **Bachelor of Computer Science (BCS)**  
-🏫 **Savitribai Phule Pune University**  
-💻 Passionate about Web Development & Software Development  
-🌱 Currently improving my Full Stack Development skills  
-🚀 Love building real-world projects  
-🎯 Goal: Become a professional Software Developer
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhii06-U&label=PROFILE%20VIEWS&color=00d9ff&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Abhii06-U?label=FOLLOWERS&style=for-the-badge&color=203a43"/>
+</p>
 
 ---
 
-## 💻 My Tech Stack
-
-<div align="center">
-
-### 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-
-</div>
-
----
-
-# 🚀 My Projects
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-## 🎵 Music Player
-
-A modern music player website with a clean and responsive UI.
-
-**Technologies**
-
-HTML  
-CSS  
-JavaScript
-
-<br>
-
-<a href="https://github.com/Abhii06-U/music-plyer">
-<img src="https://img.shields.io/badge/View_Project-FF00FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="33%" align="center">
-
-## ✅ To-Do List
-
-A modern task management application with interactive features.
-
-**Technologies**
-
-HTML  
-CSS  
-JavaScript
-
-<br>
-
-<a href="https://github.com/Abhii06-U/To-Do-List-App">
-<img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-
-<td width="33%" align="center">
-
-## 🌐 Portfolio
-
-My personal developer portfolio showcasing my skills and projects.
-
-**Technologies**
-
-HTML  
-CSS  
-JavaScript
-
-<br>
-
-<a href="https://github.com/Abhii06-U/portfolio">
-<img src="https://img.shields.io/badge/View_Project-7B2FF7?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhii06-U&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF&text_color=FFFFFF" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii06-U&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Abhii06-U&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF" />
-
-</div>
-
----
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhii06-U&bg_color=0D1117&color=00F7FF&line=FF00FF&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Become a professional Full Stack Developer
-- ⚛️ Master React.js
-- 🟢 Improve Node.js & Express.js
-- 🍃 Improve MongoDB skills
-- ☁️ Learn Cloud & Deployment
-- 🤝 Contribute to Open Source
-- 💼 Build production-ready applications
-
----
-
-# 🧠 Currently Learning
+# 👨‍💻 About Me
 
 ```text
-JavaScript
-React.js
-Node.js
-Express.js
-MongoDB
-REST APIs
-Git & GitHub
-Full Stack Development
+╔══════════════════════════════════════════════════════════╗
+║                    ABHINAY UGALE                         ║
+╠══════════════════════════════════════════════════════════╣
+║ 🎓 MSc Computer Science Student                         ║
+║ 💻 BCS Graduate — Savitribai Phule Pune University      ║
+║ 📍 Nashik, Maharashtra, India                           ║
+║ 🚀 Aspiring Software Developer                          ║
+║ 🌐 Interested in Web & Software Development             ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+I am a **Computer Science graduate and MSc Computer Science student** passionate about building practical software and web applications.
+
+I enjoy transforming ideas into functional applications while continuously improving my programming, database, UI development, and problem-solving skills.
+
+### 🎯 Career Interests
+
+`Software Development` • `Web Development` • `Full-Stack Development` • `Database Development` • `IT`
+
+---
+
+# ⚡ Technology Universe
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,java,python,php,html,css,js,mysql,git,github,vscode&perline=6"/>
+
+</p>
+
+---
+
+# 🧠 Technical Skills
+
+| Category       | Technologies                          |
+| -------------- | ------------------------------------- |
+| 💻 Languages   | C, Java, Python, PHP                  |
+| 🌐 Frontend    | HTML5, CSS3, JavaScript               |
+| 🗄️ Database   | MySQL                                 |
+| 🧩 Concepts    | OOP, Data Structures, Problem Solving |
+| 🔧 Tools       | Git, GitHub, VS Code                  |
+| 📱 Development | Responsive Web Design, UI Development |
+
+---
+
+# 🚀 Featured Projects
+
+## 📚 E-Learning Platform
+
+**A web-based learning platform designed to provide online courses and learning resources.**
+
+### Highlights
+
+* 🎓 Course & learning content interface
+* 🎨 User-friendly UI
+* 📱 Responsive design
+* ⚡ Interactive frontend
+* 🧩 Practical web development implementation
+
+**Technology**
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+## 🛒 Online Shopping System
+
+**Academic web application concept for browsing products and managing online shopping activities.**
+
+### Highlights
+
+* 🛍️ Product browsing
+* 👤 User interaction
+* 🗄️ Database concepts
+* 🎨 Clean interface
+* ⚡ Web application functionality
+
+**Technology**
+
+`HTML` `CSS` `JavaScript` `MySQL`
+
+---
+
+# 📊 GitHub Performance
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abhii06-U&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii06-U&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Abhii06-U&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Animation
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Abhii06-U/Abhii06-U/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🎓 Education
+
+### MSc Computer Science
+
+**K.S.K.W. Arts, Science & Commerce College, CIDCO, Nashik**
+`2026 – Present`
+
+### Bachelor of Computer Science
+
+**K.G.D.M. College, Niphad — Savitribai Phule Pune University**
+`2023 – 2026` • **CGPA: 8.25**
+
+### Higher Secondary Certificate
+
+**Maharashtra State Board**
+`2023` • **62%`
+
+### Secondary School Certificate
+
+**Maharashtra State Board**
+`2021` • **84%`
+
+---
+
+# 🏆 Certification
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python%20Programming-Infosys%20Springboard-00D9FF?style=for-the-badge&logo=python&logoColor=white"/>
+
+</p>
+
+---
+
+# 🧩 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Advanced%20Web%20Development-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-203A43?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Database-2C5364?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-0F2027?style=for-the-badge&logo=github"/>
+
+</p>
+
+---
+
+# 💎 Professional Strengths
+
+<p align="center">
+
+`Problem Solving`
+`Communication`
+`Teamwork`
+`Adaptability`
+`Time Management`
+`Quick Learning`
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Abhii06-U">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:abhinayugale06@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/abhinay-ugale-308224347">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" ait="LinkedIn"/>  
+</a>
+
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+
+</p>
+
+<p align="center">
+
+### 🚀 Build • Learn • Improve • Repeat
+
+**© 2026 Abhinay Ugale**
+
+</p>

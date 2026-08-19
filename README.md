@@ -155,12 +155,12 @@ I enjoy transforming ideas into functional applications while continuously impro
 ### Higher Secondary Certificate
 
 **Maharashtra State Board**
-`2023` • **62%`
+`2023` • **62%**`
 
 ### Secondary School Certificate
 
 **Maharashtra State Board**
-`2021` • **84%`
+`2021` • **84%**`
 
 ---
 

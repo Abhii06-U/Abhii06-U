@@ -123,7 +123,7 @@ JavaScript
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -143,6 +143,7 @@ JavaScript
 
 </div>
 
+---
 ---
 
 # 📈 Contribution Graph

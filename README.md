@@ -49,8 +49,6 @@ I enjoy building modern, responsive and user-friendly web applications while con
 ---
 
 # 🧑‍💻 Developer Profile
-
-```javascript
 const abhinay = {
     name: "Abhinay Ugale",
     role: "Full-Stack Developer",

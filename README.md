@@ -207,7 +207,7 @@ I enjoy transforming ideas into functional applications while continuously impro
 <p align="center">
 
 <a href="https://github.com/Abhii06-U">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:abhinayugale06@gmail.com">

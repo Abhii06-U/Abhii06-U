@@ -64,22 +64,6 @@ My personal portfolio website showcasing my profile, resume, and work.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abhii06-U&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii06-U&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Abhii06-U&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Abhii06-U/Abhii06-U/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
----
 
 ## Education
 

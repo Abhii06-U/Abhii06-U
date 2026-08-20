@@ -1,141 +1,133 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=ABHINAY%20UGALE&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=MSc+Computer+Science+Student;BCS+Graduate;Aspiring+Software+Developer;Web+Developer;Java+%7C+Python+%7C+JavaScript;Building+Projects+%26+Learning+Every+Day"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Abhinay%20Ugale&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<p align="center">
-  <a href="https://github.com/Abhii06-U"><img src="https://img.shields.io/badge/GitHub-Abhii06--U-181717?style=for-the-badge&logo=github"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Abhii06-U&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/Abhii06-U?label=FOLLOWERS&style=for-the-badge&color=203a43"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=MSc+Computer+Science+Student;Aspiring+Software+%26+Web+Developer;Java+%7C+Python+%7C+JavaScript+%7C+PHP"/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Abhii06-U&label=Profile%20Views&color=0f2027&style=flat-square)](https://github.com/Abhii06-U)
+[![GitHub Followers](https://img.shields.io/github/followers/Abhii06-U?label=Followers&style=flat-square&color=203a43)](https://github.com/Abhii06-U?tab=followers)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I am **Abhinay Ugale**, a Computer Science graduate and MSc Computer Science student who enjoys building practical web applications and learning modern software development concepts.
+I'm a Computer Science graduate currently pursuing an MSc in Computer Science, based in Nashik, Maharashtra, India. I enjoy turning ideas into working software — from web applications to database-driven systems — and I'm continuously sharpening my skills in programming, UI development, and problem solving.
 
-- 🎓 MSc Computer Science Student
-- 💻 BCS Graduate — Savitribai Phule Pune University
-- 🌐 Interested in Web & Software Development
-- 🚀 Focused on building practical projects
-- 📚 Continuously learning and improving programming skills
-
-### 🎯 Career Interests
-
-`Software Development` `Web Development` `Full-Stack Development` `Database Development`
+**Career interests:** Software Development · Web Development · Full-Stack Development · Database Development
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,php,html,css,js,mysql,git,github,vscode&perline=6"/>
-</p>
-
----
-
-## 🧠 Technical Skills
+<div align="center">
+<img src="https://skillicons.dev/icons?i=c,java,python,php,html,css,js,mysql,git,github,vscode&perline=6"/>
+</div>
 
 | Category | Technologies |
 |---|---|
-| 💻 Languages | C, Java, Python, JavaScript, PHP |
-| 🌐 Web | HTML5, CSS3, JavaScript |
-| 🗄️ Database | MySQL |
-| 🧩 Concepts | OOP, Data Structures, Problem Solving |
-| 🔧 Tools | Git, GitHub, VS Code |
-| 📱 Development | Responsive Web Design, UI Development |
+| **Languages** | C, Java, Python, PHP |
+| **Frontend** | HTML5, CSS3, JavaScript |
+| **Database** | MySQL |
+| **Concepts** | OOP, Data Structures, Problem Solving |
+| **Tools** | Git, GitHub, VS Code |
+| **Focus Areas** | Responsive Web Design, UI Development |
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-<table>
-<tr>
-<td width="33%" valign="top">
+### 🎵 [Music Player](https://github.com/Abhii06-U/music-plyer)
+A browser-based music player with album covers and a playable song library.
+- Custom play/pause, track switching, and progress controls
+- Organized asset structure for covers and songs
+- Built entirely with vanilla JavaScript, no external libraries
 
-### 🎵 Music Player
+**Stack:** `HTML` `CSS` `JavaScript`
 
-A responsive web music player with a song library, album covers and interactive playback controls.
+### ✅ [To-Do List App](https://github.com/Abhii06-U/To-Do-List-App)
+A lightweight task manager for adding, tracking, and completing daily to-dos.
+- Add, complete, and remove tasks in real time
+- Clean, minimal interface
+- Pure HTML/CSS/JS, no frameworks
 
-**Tech:** `JavaScript` `HTML` `CSS`
+**Stack:** `HTML` `CSS` `JavaScript`
 
-[🔗 View Repository](https://github.com/Abhii06-U/music-plyer)
+### 🌐 [Personal Portfolio](https://github.com/Abhii06-U/portfolio)
+My personal portfolio website showcasing my profile, resume, and work.
+- Responsive single-page layout
+- Downloadable resume
+- Built and deployed as a static site
 
-</td>
-<td width="33%" valign="top">
-
-### 💼 Personal Portfolio
-
-A professional portfolio website showcasing profile information, skills, projects and resume details.
-
-**Tech:** `CSS` `HTML` `JavaScript`
-
-[🔗 View Repository](https://github.com/Abhii06-U/portfolio)
-
-</td>
-<td width="33%" valign="top">
-
-### ✅ To-Do List App
-
-A clean task-management web application for adding, completing and managing daily tasks.
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
-[🔗 View Repository](https://github.com/Abhii06-U/To-Do-List-App)
-
-</td>
-</tr>
-</table>
-
-> ⭐ **More projects:** [Explore my GitHub repositories](https://github.com/Abhii06-U?tab=repositories)
+**Stack:** `HTML` `CSS`
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhii06-U&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii06-U&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="170"/>
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Abhii06-U&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii06-U&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="165"/>
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhii06-U&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
-</p>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Abhii06-U&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+</div>
 
----
-
-## 🎓 Education
-
-### MSc Computer Science
-**K.S.K.W. Arts, Science & Commerce College, CIDCO, Nashik** · `2026 – Present`
-
-### Bachelor of Computer Science
-**K.G.D.M. College, Niphad — Savitribai Phule Pune University** · `2023 – 2026`
+<div align="center">
+<img src="https://raw.githubusercontent.com/Abhii06-U/Abhii06-U/output/github-contribution-grid-snake-dark.svg"/>
+</div>
 
 ---
 
-## 💎 Professional Strengths
+## Education
 
-`Problem Solving` `Communication` `Teamwork` `Adaptability` `Time Management` `Quick Learning`
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Abhii06-U"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/abhinay-ugale-308224347"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:abhinayugale06@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+| Degree | Institution | Duration | Result |
+|---|---|---|---|
+| MSc Computer Science | K.S.K.W. Arts, Science & Commerce College, CIDCO, Nashik | 2026 – Present | In Progress |
+| BCS (Bachelor of Computer Science) | K.G.D.M. College, Niphad (Savitribai Phule Pune University) | 2023 – 2026 | CGPA: 8.25 |
+| Higher Secondary Certificate | Maharashtra State Board | 2023 | 62% |
+| Secondary School Certificate | Maharashtra State Board | 2021 | 84% |
 
 ---
 
-<p align="center">
-  <b>🚀 Build • Learn • Improve • Repeat</b>
-</p>
+## Certification
 
-<p align="center">© 2026 Abhinay Ugale</p>
+[![Python Programming](https://img.shields.io/badge/Python%20Programming-Infosys%20Springboard-00D9FF?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Abhii06-U)
+
+---
+
+## Currently Learning
+
+`Advanced Web Development` · `JavaScript` · `Database Design` · `Git & GitHub`
+
+---
+
+## Core Strengths
+
+`Problem Solving` · `Communication` · `Teamwork` · `Adaptability` · `Time Management` · `Quick Learning`
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhii06-U)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinayugale06@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinay-ugale-308224347)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
+
+**Build · Learn · Improve · Repeat**
+
+© 2026 Abhinay Ugale
+
+</div>
